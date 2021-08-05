@@ -15,9 +15,13 @@ Front-End | Backend
 <img src="https://github.com/AndersonDevv/ReadMe/blob/main/frontEnd.gif" width="" height="200">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/postgresJava.png" width="400" height="200">
 
 
-# Projects that I've been participating 
-1. https://santanderkids.netlify.app/index.html
-2. https://andersondevv-sds2-delivery.netlify.app/
+# I had an actve involment in these projects
+
+HTML + CSS + JS + Java| HTM + CSS + Typescript 
+------------ | -------------
+<img src="https://github.com/AndersonDevv/ReadMe/blob/main/SantanderKidsa.png" width="" height="200">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/DSDelivery.png" width="400" height="200">
+------------ | -------------
+ https://santanderkids.netlify.app/index.html | https://andersondevv-sds2-delivery.netlify.app/
 
 <!---
 AndersonDevvv/AndersonDevvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
