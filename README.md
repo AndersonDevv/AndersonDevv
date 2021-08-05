@@ -19,7 +19,7 @@ Front-End | Backend
 
 HTML + CSS + JS + Java| HTM + CSS + React + Typescript 
 ------------ | -------------
-<img src="https://github.com/AndersonDevv/ReadMe/blob/main/SantanderKidsa.png" width="" height="200">| <img src="https://drive.google.com/file/d/1Mlk9-k-nNBxKxi8UsnSfrpoeGJ9heNjP/view?usp=sharing" width="400" height="200">
+<img src="https://github.com/AndersonDevv/ReadMe/blob/main/SantanderKidsa.png" width="" height="200">| <https://github.com/AndersonDevv/ReadMe/blob/main/DSDelivery.png" width="400" height="200">
  https://santanderkids.netlify.app/index.html | https://andersondevv-sds2-delivery.netlify.app/
 
 
