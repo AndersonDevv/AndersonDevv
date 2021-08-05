@@ -1,12 +1,11 @@
 # Welcome to Anderson's gitHub README
-<img src="https://github.com/AndersonDevv/ReadMe/blob/main/helloWorld1.gif" width="300" height="200"> 
+<img src="https://github.com/AndersonDevv/ReadMe/blob/main/helloWorld1.gif" width="1000" height="200"> 
 
-***
+___
 - 👋 Hi, I’m @AndersonDevvv
 - 👀 I’m interested to become Fullstack Developer, but for now I'm focusing on front-end 
 - 🌱 I’m currently learning React, but I also got knowledge about HTML,CSS, JavaScript, Java, Github
 - 📫 You can reach me by e-mailing me on andersonsilva.devv@gmail.com or calling me on (+55) 81 98313-7375
-
 ___
 
 # Currently I'm focusing on front-end development but also I got basic knowledge about back-end using java.
