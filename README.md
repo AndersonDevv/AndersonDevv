@@ -15,7 +15,7 @@ Front-End | Backend
 <img src="https://github.com/AndersonDevv/ReadMe/blob/main/frontEnd.gif" width="" height="200">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/postgresJava.png" width="400" height="200">
 
 
-# I had an actve involment in these projects
+# I have been an active involvement in these projects
 
 HTML + CSS + JS + Java| HTM + CSS + Typescript 
 ------------ | -------------
