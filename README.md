@@ -3,8 +3,8 @@
 
 ==================================================================================
 - 👋 Hi, I’m @AndersonDevvv
-- 👀 I’m interested in Front-End development 
-- 🌱 I’m currently learning React, but I also got knowledge about HTML,CSS, JavaScript, Java, Github, Scrum
+- 👀 I’m interested to become Fullstack Developer, but for now I'm focusing on front-end 
+- 🌱 I’m currently learning React, but I also got knowledge about HTML,CSS, JavaScript, Java, Github
 - 📫 You can reach me by e-mailing me on andersonsilva.devv@gmail.com or calling me on (+55) 81 98313-7375
 ==================================================================================
 
