@@ -3,7 +3,7 @@
 
 ___
 - 👋 Hi, I’m @AndersonDevvv
-- 👀 I’m interested to become Fullstack Developer, but for now I'm focusing on front-end development
+- 👀 I’m interested in become Fullstack Developer, but for now I'm focusing on front-end development
 - 🌱 I’m currently learning React, but I also got knowledge about HTML,CSS, JavaScript, Java, Github
 - 📫 You can reach me by e-mailing me on andersonsilva.devv@gmail.com or calling me on (+55) 81 98313-7375
 ___
@@ -21,6 +21,9 @@ HTML + CSS + JS + Java| HTM + CSS + Typescript
 ------------ | -------------
 <img src="https://github.com/AndersonDevv/ReadMe/blob/main/SantanderKidsa.png" width="" height="200">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/DSDelivery.png" width="400" height="200">
  https://santanderkids.netlify.app/index.html | https://andersondevv-sds2-delivery.netlify.app/
+
+
+# Thank you for you time!
 
 <!---
 AndersonDevvv/AndersonDevvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
