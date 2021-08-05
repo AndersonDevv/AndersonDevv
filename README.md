@@ -8,7 +8,7 @@
 - 📫 You can reach me by e-mailing me on andersonsilva.devv@gmail.com or calling me on (+55) 81 98313-7375
 ==================================================================================
 
-# I'm able to coding using 
+# Currently I'm focusing on front-end development but also I got basic knowledge about back-end using java.
 
 Front-End | Backend 
 ------------ | -------------
