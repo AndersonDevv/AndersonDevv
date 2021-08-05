@@ -1,5 +1,5 @@
 # Welcome to Anderson's gitHub README
-<img src="https://github.com/AndersonDevv/ReadMe/blob/main/helloWorld1.gif" width="1000" height="200"> 
+<img src="https://github.com/AndersonDevv/ReadMe/blob/main/helloWorld1.gif" width="300" height="200"> 
 
 ___
 - 👋 Hi, I’m @AndersonDevvv
