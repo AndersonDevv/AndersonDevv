@@ -4,7 +4,7 @@
 ___
 - 👋 Hi, I’m @AndersonDevvv
 - 👀 I’m interested in become a Full Stack Developer, but for now I'm focusing on front-end development
-- 🌱 I’m currently learning ReactJS, but I also have intermediate knowledge about HTML,CSS, JavaScript, Java, Github and Scrum.
+- 🌱 I’m currently learning ReactJS, but I also have average knowledge about HTML,CSS, JavaScript, Java, GitHub and Scrum.
 - 📫 You can reach me by e-mailing me on andersonsilva.devv@gmail.com or calling me on (+55) 81 98313-7375
 ___
 
