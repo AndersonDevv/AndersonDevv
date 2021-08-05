@@ -6,11 +6,13 @@
 - 👀 I’m interested in Front-End development 
 - 🌱 I’m currently learning React, but I also got knowledge about HTML,CSS, JavaScript, Java, Github, Scrum
 - 📫 You can reach me by e-mailing me on andersonsilva.devv@gmail.com or calling me on (+55) 81 98313-7375
+==================================================================================
+
 # I'm able to coding using 
 
 Front-End | Backend 
 ------------ | -------------
-<img src="https://github.com/AndersonDevv/ReadMe/blob/main/frontEnd.gif" width="" height="337">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/postgresJava.png" width="600" height="300">
+<img src="https://github.com/AndersonDevv/ReadMe/blob/main/frontEnd.gif" width="" height="200">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/postgresJava.png" width="400" height="200">
 
 
 
