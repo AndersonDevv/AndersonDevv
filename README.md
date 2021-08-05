@@ -5,7 +5,7 @@
 # I'm able to coding using 
 Front-End | Backend 
 ------------ | -------------
-<img src="https://github.com/AndersonDevvv/readMe/blob/main/frontEndTec.png" width="1320" height="337">| <img src="https://github.com/AndersonDevvv/readMe/blob/main/JavaPostgress.png" width="1000" height="300">
+<img src="https://github.com/AndersonDevvv/readMe/blob/main/frontEnd.png" width="1320" height="337">| <img src="https://github.com/AndersonDevvv/readMe/blob/main/JavaPostgress.png" width="1000" height="300">
 
 - 👋 Hi, I’m @AndersonDevvv
 - 👀 I’m interested in Front-End development 
