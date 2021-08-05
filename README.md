@@ -12,14 +12,14 @@ ___
 
 Front-End | Backend 
 ------------ | -------------
-<img src="https://github.com/AndersonDevv/ReadMe/blob/main/frontEnd.gif" width="" height="200">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/postgresJava.png" width="400" height="200">
+<img src="https://github.com/AndersonDevv/ReadMe/blob/main/frontEnd.gif" width="300" height="150">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/postgresJava.png" width="300" height="150">
 
 
 # I have been an active involvement in these projects
 
 HTML + CSS + JS + Java| HTM + CSS + React + Typescript 
 ------------ | -------------
-<img src="https://github.com/AndersonDevv/ReadMe/blob/main/SantanderKidsa.png" width="400" height="200">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/DSDelivery.png" width="400" height="200">
+<img src="https://github.com/AndersonDevv/ReadMe/blob/main/SantanderKidsa.png" width="300" height="150">| <img src="https://github.com/AndersonDevv/ReadMe/blob/main/DSDelivery.png" width="300" height="150">
  https://santanderkids.netlify.app/index.html | https://andersondevv-sds2-delivery.netlify.app/
 
 
