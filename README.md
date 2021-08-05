@@ -1,7 +1,7 @@
 # Welcome to Anderson's gitHub README
 <img src="https://github.com/AndersonDevv/ReadMe/blob/main/helloWorld1.gif" width="300" height="200"> 
 
-=========================================================================================================
+==================================================================================
 - 👋 Hi, I’m @AndersonDevvv
 - 👀 I’m interested in Front-End development 
 - 🌱 I’m currently learning React, but I also got knowledge about HTML,CSS, JavaScript, Java, Github, Scrum
